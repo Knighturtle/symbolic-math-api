@@ -29,7 +29,9 @@ Health check endpoint to verify the API is running.
 {"result": "5*x"}
 
 Run locally:
+```bash
 pytest -q
+
 
 Sample output:
 2 passed in 0.15s
