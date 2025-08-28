@@ -31,8 +31,7 @@ Health check endpoint to verify the API is running.
 
 Run locally:
 ```bash
-pytest -q　
-
+pytest -q
 
 Sample output:
 2 passed in 0.15s
