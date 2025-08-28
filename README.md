@@ -42,6 +42,15 @@ Simplify a mathematical expression.
 
 ---
 
+## 📸 Screenshots
+
+### Swagger UI
+![Swagger UI Screenshot](./assets/swagger-ui.png)
+
+### Health Check
+![Health Check Screenshot](./assets/health-check.png)
+
+
 ## 🧪 Testing
 
 Run locally:
