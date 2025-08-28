@@ -18,45 +18,82 @@ This project is designed as a **portfolio piece** to showcase skills in API desi
 ## ✅ Implemented Endpoints
 
 ### `GET /health`
-Health check endpoint to verify the API is running.  
+Health check endpoint to verify the API is running.
 
 **Response:**
-```json
+~~~json
 {"status": "ok"}
-
-{"expression": "2*x + 3*x"}
-
-{"result": "5*x"}
-
-
-Run loacally:
-
-```bash
-pytest -q
+~~~
 
 ---
 
-Sample output:
-2 passed in 0.15s
+### `POST /simplify`
+Simplify a mathematical expression.
 
-How to Run
+**Request:**
+~~~json
+{"expression": "2*x + 3*x"}
+~~~
+
+**Response:**
+~~~json
+{"result": "5*x"}
+~~~
+
+---
+
+## 🧪 Testing
+
+Run locally:
+~~~bash
+pytest -q
+~~~
+
+**Sample output:**
+~~~text
+2 passed in 0.15s
+~~~
+
+---
+
+## 🔧 How to Run
 
 Clone the repository:
+~~~bash
 git clone https://github.com/YOUR_USERNAME/mini-mathway-portfolio.git
 cd mini-mathway-portfolio
+~~~
 
 Start the API:
+~~~bash
 uvicorn main:app --reload
+~~~
 
 Visit:
+- **Swagger UI**: http://127.0.0.1:8000/docs  
+- **Health check**: http://127.0.0.1:8000/health  
 
-Swagger UI: http://127.0.0.1:8000/docs
+---
 
-Health check: http://127.0.0.1:8000/health
+## 🛠️ Future Enhancements
+Planned extensions to approach the functionality of Mathway:
+- `/evaluate`: numeric evaluation with variable substitution  
+- `/solve`: equation solving (linear, quadratic, systems)  
+- `/factor` & `/expand`: factorization and expansion  
+- `/derivative` & `/integral`: calculus (derivatives & integrals)  
+- Step-by-step solution explanations for educational use  
 
+---
 
-## License
-This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
+## 📚 Key Takeaways
+- Built and tested an API combining **FastAPI** and **SymPy**  
+- Learned asynchronous testing with **pytest-asyncio**  
+- Set up **CI/CD pipelines** with GitHub Actions  
+- Maintained a clean and professional repository (template repo, `.gitignore`, test coverage)  
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+---
 
+## 📜 License
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.  
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
