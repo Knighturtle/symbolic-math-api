@@ -46,6 +46,7 @@ Simplify a mathematical expression.
 
 ### Swagger UI
 ![Swagger UI Screenshot](assets/API.jpg)
+
 ![Health Check Screenshot](assets/ok.jpg)
 
 
