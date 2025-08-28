@@ -28,9 +28,10 @@ Health check endpoint to verify the API is running.
 
 {"result": "5*x"}
 
-（　Run locally:
+
+Run locally:
 ```bash
-pytest -q　）
+pytest -q　
 
 
 Sample output:
