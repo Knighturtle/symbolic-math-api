@@ -29,7 +29,7 @@ Health check endpoint to verify the API is running.
 {"result": "5*x"}
 
 
-Run locally:
+Run loacally:
 
 ```bash
 pytest -q
