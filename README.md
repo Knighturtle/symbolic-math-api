@@ -87,6 +87,9 @@ pytest -q
 2 passed in 0.15s
 ~~~
 
+def test_simplify(client):
+    response = client.post("/simplify", json={"expression": "2*x + 3*x"})
+    assert response.json() == {"result": "5*x"}
 
 
 ---
