@@ -1,4 +1,4 @@
-# Mini Mathway (Portfolio Version)
+#symbolic-math-api (Portfolio Version)
 
 A minimal symbolic math API built with FastAPI + SymPy. Deployed on Render with Docker, tested with pytest, and integrated CI/CD via GitHub Actions.
 
@@ -94,8 +94,9 @@ pytest -q
 Clone the repository:
 
 ```
-git clone https://github.com/Knighturtle/mini-mathway-portfolio.git
-cd mini-mathway-portfolio
+git clone https://github.com/Knighturtle/symbolic-math-api.git
+cd symbolic-math-api
+
 ```
 Install dependencies:
 ```bash
