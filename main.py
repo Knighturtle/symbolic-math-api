@@ -28,5 +28,8 @@ async def simplify_endpoint(payload: SimplifyIn):
         return {"result": str(res)}  # dictを返す => application/json
     except (SympifyError, ValueError) as e:
         raise HTTPException(status_code=400, detail=f"invalid expression: {e}")
+from fastapi.responses import RedirectResponse
 
-
+@app.get("/", include_in_schema=False)
+def root():
+    return RedirectResponse("/docs")
