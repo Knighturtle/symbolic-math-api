@@ -78,7 +78,7 @@ Simplify a mathematical expression.
 ## 🧪 Testing
 
 Run locally:
-~~~bash
+~~~ **\`\`\`**bash  **\`\`\`**
 pytest -q
 ~~~
 
