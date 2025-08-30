@@ -87,6 +87,18 @@ pytest -q
 2 passed in 0.15s
 ~~~
 
+## ⚙️ How to Run
+
+Clone the repository:
+```bash
+git clone https://github.com/Knighturtle/mini-mathway-portfolio.git
+cd mini-mathway-portfolio
+
+
+
+
+
+
 ---
 
 
