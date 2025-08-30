@@ -79,7 +79,7 @@ Simplify a mathematical expression.
 
 Run locally:
 ~~~ **\`\`\`**bash  **\`\`\`**
-pytest -q
+ **\`\`\`**pytest -q **\`\`\`**
 ~~~
 
 **Sample output:**
@@ -103,11 +103,8 @@ pytest -q
 Start the API:
 uvicorn main:app --reload
 
-~~~
+ **\`\`\`**
 
----
-
----
 
 
 
