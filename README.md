@@ -105,6 +105,7 @@ uvicorn main:app --reload
 ---
 
 
+
 ## 🚀 Roadmap
 - [ ] /solve: equation solving (linear, quadratic, systems)
 - [ ] /integral: calculus (integrals)
