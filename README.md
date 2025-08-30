@@ -107,8 +107,8 @@ Run tests (optional):
 pytest -q
 ```
 Start the API:
-```
-uvicorn main:app --reload```
+
+uvicorn main:app --reload
 ```
 
 ```
