@@ -80,11 +80,6 @@ Start the API:
 ~~~bash
 uvicorn main:app --reload
 ~~~
-
-Visit:
-- **Swagger UI**: http://127.0.0.1:8000/docs  
-- **Health check**: http://127.0.0.1:8000/health  
-
 ---
 
 ## 🛠️ Future Enhancements
