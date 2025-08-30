@@ -97,12 +97,15 @@ Clone the repository:
 git clone https://github.com/Knighturtle/mini-mathway-portfolio.git
 cd mini-mathway-portfolio
 
-Install dependencies:```
+Install dependencies:
+
+```
 
 pip install -r requirements.txt
 
 
 Run tests (optional):
+```
 
 pytest -q```
 
