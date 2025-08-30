@@ -53,11 +53,14 @@ Simplify a mathematical expression.
 
 ## 📸 Screenshots
 
-### Swagger UI
-![Swagger UI Screenshot](Assets/API.jpg)
+## 📷 Screenshots
 
-### Health Check
-![Health Check Screenshot](Assets/ok.jpg)
+**Swagger UI**  
+![Swagger UI](assets/swagger-ui.jpg)
+
+**Health Check**  
+![Health Check](assets/health-check.jpg)
+
 
 
 
