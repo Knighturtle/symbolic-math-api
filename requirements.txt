@@ -24,3 +24,9 @@ httpx==0.28.1
 pytest==8.3.3
 pytest-asyncio
 sympy>=1.13
+fastapi
+uvicorn[standard]
+httpx
+pytest
+pytest-cov
+coverage-badge
