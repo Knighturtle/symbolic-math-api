@@ -1,7 +1,5 @@
 # symbolic-math-api (Portfolio Version)
 
-![Coverage](./coverage.svg)
-
 A minimal symbolic math API built with FastAPI + SymPy.  
 Deployed on Render with Docker, tested with pytest, and integrated CI/CD via GitHub Actions.
 
