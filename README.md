@@ -87,6 +87,7 @@ Run locally:
 2 passed in 0.15s
 ~~~
 
+```markdown
 ## ⚙️ How to Run Locally
 
 Clone the repository:
@@ -114,8 +115,6 @@ uvicorn main:app --reload
 ---
 
 
-
----
 
 
 ## 🚀 Roadmap
