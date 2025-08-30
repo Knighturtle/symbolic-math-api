@@ -90,7 +90,7 @@ pytest -q
 def test_simplify(client):
     response = client.post("/simplify", json={"expression": "2*x + 3*x"})
     assert response.json() == {"result": "5*x"}
-
+~~~
 
 ---
 
