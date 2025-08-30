@@ -1,7 +1,6 @@
 # Mini Mathway (Portfolio Version)
 
-A minimal **FastAPI + SymPy** project that demonstrates symbolic math operations through an API.  
-This project is designed as a **portfolio piece** to showcase skills in API design, testing, and CI/CD integration.
+A minimal symbolic math API built with FastAPI + SymPy. Deployed on Render with Docker, tested with pytest, and integrated CI/CD via GitHub Actions.
 
 ---
 
