@@ -80,7 +80,6 @@ Simplify a mathematical expression.
 Run locally:
 ~~~
 pytest -q
-
 ~~~
 
 **Sample output:**
