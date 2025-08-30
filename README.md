@@ -25,7 +25,7 @@ coverage-badge
 | Math Engine     | SymPy                            |
 | Testing         | pytest, pytest-asyncio, httpx    |
 | CI/CD           | GitHub Actions                   |
-| Deployment      | Render (Docker)                  |
+| Deployment      | Render (Dockerr, Free Tier)                  |
 
 
 ---
@@ -131,7 +131,7 @@ uvicorn main:app --reload
 - Learned asynchronous testing with **pytest-asyncio**  
 - Set up **CI/CD pipelines** with GitHub Actions  
 - Maintained a clean and professional repository (template repo, `.gitignore`, test coverage)  
-Deployed a working production-ready API with CI/CD pipeline for demonstration
+-Deployed a working production-ready API with CI/CD pipeline for demonstration
 ---
 
 ## 📜 License
