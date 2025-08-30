@@ -56,7 +56,9 @@ Simplify a mathematical expression.
 **Swagger UI**  
 ![Swagger UI](assets/swagger-ui.jpg)
 
+
 **Health Check**  
+
 ![Health Check](assets/health-check.jpg)
 
 
