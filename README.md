@@ -96,7 +96,8 @@ Clone the repository:
 cd mini-mathway-portfolio
 ~~~
 
-Install dependencies:
+
+---
 
 pip install -r requirements.txt
 
