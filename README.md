@@ -107,9 +107,10 @@ Run tests (optional):
 pytest -q
 ~~~
 
-Start the API:~~~
+Start the API:
+~~
 uvicorn main:app --reload```
-~~~
+~~
 ```
  
 ---
