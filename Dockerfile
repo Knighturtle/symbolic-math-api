@@ -13,3 +13,13 @@ ENV PORT=8000
 EXPOSE 8000
 CMD ["bash","-lc","uvicorn main:app --host 0.0.0.0 --port ${PORT}"]
 
+__pycache__/
+*.pyc
+.env
+.git
+.gitignore
+.vscode/
+.coverage
+htmlcov/
+dist/
+build/
