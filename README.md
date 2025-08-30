@@ -92,10 +92,14 @@ pytest -q
 ## 🔧 How to Run
 
 Clone the repository:
-~~~bash
-git clone https://github.com/YOUR_USERNAME/mini-mathway-portfolio.git
+~~~git clone https://github.com/YOUR_USERNAME/mini-mathway-portfolio.git
 cd mini-mathway-portfolio
 ~~~
+
+Install dependencies:
+
+pip install -r requirements.txt
+
 
 Start the API:
 ~~~bash
