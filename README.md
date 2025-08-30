@@ -12,10 +12,10 @@ pytest-cov
 coverage-badge
 
 ## 🚀 Live
-- API: https://mini-mathway-portfolio.onrender.com
-- Docs: https://mini-mathway-portfolio.onrender.com/docs
-- Health: https://mini-mathway-portfolio.onrender.com/health
-
+🚀 Live
+- API: https://symbolic-math-api.onrender.com
+- Docs: https://symbolic-math-api.onrender.com/docs
+- Health: https://symbolic-math-api.onrender.com/health
 
 ## 🚀 Tech Stack
 | Category        | Tools/Libraries                  |
