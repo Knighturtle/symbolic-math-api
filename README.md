@@ -89,26 +89,21 @@ pytest -q
 
 ---
 
-## 🔧 How to Run
+## ⚙️ How to Run
 
 Clone the repository:
-~~~git clone https://github.com/YOUR_USERNAME/mini-mathway-portfolio.git
+```bash
+git clone https://github.com/Knighturtle/mini-mathway-portfolio.git
 cd mini-mathway-portfolio
-~~~
 
-
----
-
+Install dependencies:
 pip install -r requirements.txt
 
-
----
-
 Start the API:
-~~~bash
 uvicorn main:app --reload
-~~~
+
 ---
+
 
 ## 🚀 Roadmap
 - [ ] /solve: equation solving (linear, quadratic, systems)
