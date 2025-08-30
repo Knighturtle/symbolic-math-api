@@ -6,10 +6,15 @@ This project is designed as a **portfolio piece** to showcase skills in API desi
 ---
 # Mini Mathway (API)
 
+
 [![CI](https://github.com/Knighturtle/mini-mathway-portfolio/actions/workflows/ci.yml/badge.svg)]
 
 (https://github.com/Knighturtle/mini-mathway-portfolio/actions/workflows/ci.yml)
+
+
 ![coverage](./coverage.svg)
+
+
 
 ## 🚀 Tech Stack
 - **Language**: Python 3.11  
