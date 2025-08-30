@@ -101,10 +101,11 @@ cd mini-mathway-portfolio
 Install dependencies:
 ```
 
-```
 
-pip install -r requirements.txt
 ```
+pip install -r requirements.txt
+
+---
 
 
 
