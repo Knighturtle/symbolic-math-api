@@ -53,8 +53,6 @@ Simplify a mathematical expression.
 
 ## 📸 Screenshots
 
-## 📷 Screenshots
-
 **Swagger UI**  
 ![Swagger UI](assets/swagger-ui.jpg)
 
