@@ -90,6 +90,12 @@ pytest -q
 ⚙️ How to Run Locally
 
 Clone the repository:
+
+Install dependencies:
+
+pytest -q
+
+
 ---
 
 
