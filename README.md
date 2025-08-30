@@ -45,9 +45,11 @@ Simplify a mathematical expression.
 ## 📸 Screenshots
 
 ### Swagger UI
-![Swagger UI Screenshot](assets/API.jpg)
+![Swagger UI Screenshot](Assets/API.jpg)
 
-![Health Check Screenshot](assets/ok.jpg)
+### Health Check
+![Health Check Screenshot](Assets/ok.jpg)
+
 
 
 
