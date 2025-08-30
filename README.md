@@ -87,18 +87,12 @@ pytest -q
 2 passed in 0.15s
 ~~~
 
-⚙️ How to Run Locally
+## ⚙️ How to Run Locally
 
 Clone the repository:
-
-Install dependencies:
-
-pytest -q
-
-pip install -r requirements.txt
-
-Start the API:
-uvicorn main:app --reload
+```bash
+git clone https://github.com/Knighturtle/mini-mathway-portfolio.git
+cd mini-mathway-portfolio
 
 ---
 
