@@ -101,23 +101,16 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-
-
-
-
-
 Run tests (optional):
 
-```
+```bash
 pytest -q
-
+```
 
 Start the API:
-
-
-```
+```bash
 uvicorn main:app --reload
-
+```
 
 ---
 
