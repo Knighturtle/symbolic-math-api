@@ -14,7 +14,6 @@ pytest-cov
 coverage-badge
 
 ## 🚀 Live
-🚀 Live
 - API: https://symbolic-math-api.onrender.com
 - Docs: https://symbolic-math-api.onrender.com/docs
 - Health: https://symbolic-math-api.onrender.com/health
