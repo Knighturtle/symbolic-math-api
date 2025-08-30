@@ -87,22 +87,21 @@ Run locally:
 2 passed in 0.15s
 ~~~
 
-```markdown
+
+
 ## ⚙️ How to Run Locally
 
 Clone the repository:
-
 ```bash
 git clone https://github.com/Knighturtle/mini-mathway-portfolio.git
 cd mini-mathway-portfolio
 
 Install dependencies:
-pip install -r requirements.txt
 
+pip install -r requirements.txt
 
 Run tests (optional):
 pytest -q
-
 
 Start the API:
 uvicorn main:app --reload
