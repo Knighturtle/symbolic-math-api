@@ -87,7 +87,9 @@ pytest -q
 2 passed in 0.15s
 ~~~
 
+⚙️ How to Run Locally
 
+Clone the repository:
 ---
 
 
