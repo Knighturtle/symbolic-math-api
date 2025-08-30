@@ -94,18 +94,11 @@ Clone the repository:
 git clone https://github.com/Knighturtle/mini-mathway-portfolio.git
 cd mini-mathway-portfolio
 
-Install dependencies:
 
 pip install -r requirements.txt
 
-Start the API:
 
 uvicorn main:app --reload
-` ``` `
----
-
-
-
 
 
 ---
