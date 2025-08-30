@@ -89,22 +89,6 @@ pytest -q
 
 ---
 
-## ⚙️ How to Run
-
-Clone the repository:
-```bash
-git clone https://github.com/Knighturtle/mini-mathway-portfolio.git
-cd mini-mathway-portfolio
-
-Install dependencies:
-pip install -r requirements.txt
-
-Start the API:
-uvicorn main:app --reload
-
----
-
----
 
 ## 🚀 Roadmap
 - [ ] /solve: equation solving (linear, quadratic, systems)
