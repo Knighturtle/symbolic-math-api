@@ -95,6 +95,10 @@ Install dependencies:
 
 pytest -q
 
+pip install -r requirements.txt
+
+Start the API:
+uvicorn main:app --reload
 
 ---
 
