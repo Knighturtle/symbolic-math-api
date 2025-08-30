@@ -104,13 +104,13 @@ uvicorn main:app --reload
 ~~~
 ---
 
-## 🛠️ Future Enhancements
-Planned extensions to approach the functionality of Mathway:
-- `/evaluate`: numeric evaluation with variable substitution  
-- `/solve`: equation solving (linear, quadratic, systems)  
-- `/factor` & `/expand`: factorization and expansion  
-- `/derivative` & `/integral`: calculus (derivatives & integrals)  
-- Step-by-step solution explanations for educational use  
+## 🚀 Roadmap
+- [ ] /solve: equation solving (linear, quadratic, systems)
+- [ ] /integral: calculus (integrals)
+- [ ] /derivative: calculus (derivatives)
+- [ ] /factor & /expand: expression manipulation
+- [ ] Step-by-step solution explanations
+
 
 ---
 
