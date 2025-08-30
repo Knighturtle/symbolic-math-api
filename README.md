@@ -78,8 +78,8 @@ Simplify a mathematical expression.
 ## 🧪 Testing
 
 Run locally:
-~~~ **\`\`\`**bash  **\`\`\`**
- **\`\`\`**pytest -q **\`\`\`**
+~~~ pytest -q
+
 ~~~
 
 **Sample output:**
