@@ -19,12 +19,15 @@ coverage-badge
 
 
 ## 🚀 Tech Stack
-- **Language**: Python 3.11  
-- **Framework**: FastAPI  
-- **Math Engine**: SymPy  
-- **Testing**: pytest + pytest-asyncio + httpx  
-- **CI/CD**: GitHub Actions (automated testing)  
-- **Dependency Management**: pip + requirements.txt  
+| Category        | Tools/Libraries                  |
+|-----------------|----------------------------------|
+| Language        | Python 3.11                      |
+| Framework       | FastAPI                          |
+| Math Engine     | SymPy                            |
+| Testing         | pytest, pytest-asyncio, httpx    |
+| CI/CD           | GitHub Actions                   |
+| Deployment      | Render (Docker)                  |
+
 
 ---
 
