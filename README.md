@@ -5,9 +5,6 @@ This project is designed as a **portfolio piece** to showcase skills in API desi
 
 ---
 
-
-![coverage](./coverage.svg)
-
 fastapi
 uvicorn[standard]
 httpx
