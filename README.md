@@ -12,6 +12,10 @@ pytest
 pytest-cov
 coverage-badge
 
+## 🚀 Live
+- API: https://mini-mathway-portfolio.onrender.com
+- Docs: https://mini-mathway-portfolio.onrender.com/docs
+- Health: https://mini-mathway-portfolio.onrender.com/health
 
 
 ## 🚀 Tech Stack
