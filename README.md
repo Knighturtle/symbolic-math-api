@@ -103,14 +103,13 @@ pip install -r requirements.txt
 ~~~
 
 Run tests (optional):
-~~~
+```
 pytest -q
-~~~
-
+```
 Start the API:
-~~
+```
 uvicorn main:app --reload```
-~~
+```
 ```
  
 ---
